@@ -3,4 +3,4 @@
 Hi
 
 erster Link: 
-* [Mitfahrgelegenheiten](mitfahrgelegenheiten.md)
+[Mitfahrgelegenheiten](mitfahrgelegenheiten.md)
