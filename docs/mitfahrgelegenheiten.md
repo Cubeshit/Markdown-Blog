@@ -1,32 +1,41 @@
-# Suchseiten
-- https://www.fahrtfinder.net/
-- https://www.mitfahren.de/
+# Meta
+- letzte Aktualisierung: 27.10.2023
 
-# Webseiten
-## Privat/Einmalig
-### BlaBlaCar.de
-- größte Plattform
+
+# Mobilitätssuchmaschinen inkl. Mitfahrgelegenheiten
+- [fahrtfinder.net](https://www.fahrtfinder.net/)
+- [mitfahren.de](https://www.mitfahren.de/)
+	- Verlinkt auf BlaBlaCar für Menschen mit Interesse eine Fahrt anzubieten
+	- Deutsche Bahn, Flixbus, BlaBlaCar, BesserMitfahren
+- Im Hintergrund werden beide Seiten von der gleichen Person gemacht
+
+# Webseiten von Fahrtvermittlern
+## Private/Unregelmäßige Fahrten
+### [BlaBlaCar.de](BlaBlaCar.de)
+- größte Plattform in Deutschland
 - hat Mitfahrgelegenheit.de gekauft
-	- https://www.wiwo.de/unternehmen/dienstleister/mitfahrgelegenheit-de-blablacar-uebernimmt-groesste-deutsche-mitfahrzentrale/11636918.html
+	- [Quelle wiwo.de](https://www.wiwo.de/unternehmen/dienstleister/mitfahrgelegenheit-de-blablacar-uebernimmt-groesste-deutsche-mitfahrzentrale/11636918.html)
 - ist VC finanziert
 - Hat wohl viele „Features“ eingeführt um Leute an die Plattform zu binden und zu verhindern, dass sie umgangen wird
 
-### Bessermitfahren.de
-- Webseite hat schon bessere Zeiten gesehen
-- App scheint nicht mehr aktualisiert zu werden
+### [Bessermitfahren.de](Bessermitfahren.de)
+- Webseite hat in Sachen Design und Features schon bessere Zeiten gesehen
+	- Funktioniert aber noch
+- Android-App scheint nicht mehr aktualisiert zu werden
 - Überschaubares Angebot
+	- Wird scheinbar nicht mehr so stark genutzt
 - Undurchsichtige Struktur dahinter
-- Günstig
+- Kostenlos für Mitfahrer und Anbieter der Fahrt
 
-## Beruflich/Öfter
-### Fahrgemeinschaft.de
-- eher für berufliche/regelmäßige Sachen
+## Berufliche/regelmäßige Fahrten
+### [Fahrgemeinschaft.de](Fahrgemeinschaft.de)
+- eher für berufliche/regelmäßige Fahrten
 
-### mifaz.de
-- eher für berufliche/regelmäßige Sachen
+### [mifaz.de](mifaz.de)
+- eher für berufliche/regelmäßige Fahrten
 
-### flinc.org
-- irgendwann von Daimler gekauft
+### [flinc.org](flinc.org)
+- irgendwann von Daimler gekauft worden
 
-### Drive2Day.de
-- Verweist aktuell auf mitfahren.de
+### [Drive2Day.de](Drive2Day.de)
+- Verweist aktuell auf die Suchseite [mitfahren.de](mitfahren.de)
