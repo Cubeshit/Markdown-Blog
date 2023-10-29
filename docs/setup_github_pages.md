@@ -40,20 +40,6 @@ Assumption: Use of GitHub Desktop - people familiar with the git command line pr
 ![pic8](./attachments/Pasted_image_20231029163601.png)
 
 ![pic9](./attachments/Pasted_image_20231029163624.png)
-<<<<<<< Updated upstream
-
-![pic10](./attachments/Pasted_image_20231029163635.png)
-
-10. Now you can write additional articles and link to them from the README.md
-
-![pic11](./attachments/Pasted_image_20231029163830.png)
-
-![pic12](./attachments/Pasted_image_20231029163847.png)
-
-![pic13](./attachments/Pasted_image_20231029164152.png)
-
-![pic14](./attachments/Pasted_image_20231029164248.png)
-=======
 
 ![pic10](./attachments/Pasted_image_20231029163635.png)
 
@@ -62,12 +48,12 @@ Assumption: Use of GitHub Desktop - people familiar with the git command line pr
 ![pic11](./attachments/Pasted_image_20231029163830.png)
 
 ![pic12](./attachments/Pasted_image_20231029163847.png)
->>>>>>> Stashed changes
 
 ![pic13](./attachments/Pasted_image_20231029164152.png)
 
 ![pic14](./attachments/Pasted_image_20231029164248.png)
 
 10. That's it. Have fun!
+
 # Trivia
 - It can take some time for changes to be published
