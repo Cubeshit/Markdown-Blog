@@ -47,7 +47,7 @@ Assumption: Use of GitHub Desktop - people familiar with the git command line pr
 
 ![[Pasted image 20231029164248.png]]
 
-2. That's it. Have fun!
+9. That's it. Have fun!
 # Trivia
 - It can take some time for changes to be published
 
