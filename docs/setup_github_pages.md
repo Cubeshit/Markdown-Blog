@@ -5,7 +5,7 @@ For this tutorial it is assumed, that you already have a github account.
 If yes follow the outlined steps. If no, create a new account!
 
 1. Create a new repository
-![[Pasted image 20231021121910.png]]
+![[attachments/Pasted image 20231021121910.png]]
 
 2. Choose a name and set it public. GitHub pages is currently (October 2023) only available for public repositories or for paying users
 ![[Pasted image 20231021123601.png]]
