@@ -1,5 +1,5 @@
 # Meta
-- letzte Aktualisierung: 27.10.2023
+- letzte inhaltliche Aktualisierung: 27.10.2023
 
 
 # Mobilitätssuchmaschinen inkl. Mitfahrgelegenheiten
@@ -29,7 +29,7 @@
 - Undurchsichtige Struktur dahinter
 - Kostenlos für Mitfahrer und Anbieter der Fahrt
 
-## Berufliche/regelmäßige Fahrten
+## Berufliche/Regelmäßige Fahrten
 ### Fahrgemeinschaft.de
 - [Fahrgemeinschaft.de](https://fahrgemeinschaft.de/)
 - eher für berufliche/regelmäßige Fahrten
