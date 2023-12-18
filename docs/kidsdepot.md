@@ -48,8 +48,8 @@ Man könnte sich auch eine Mischung überlegen. Als Eltern regelmäßige Einzahl
     Eltern können ab der Geburt des Kindes ein Depot auf dessen Namen eröffnen, das geht bei den meisten Anbietern per Online-Formular oder PDF-Dokument, das ausgefüllt zurückgeschickt werden muss. Dazu wird die (ggf. beglaubigte) Kopie der Geburtsurkunde benötigt und wenn das Kind bereits 16 Jahre alt ist, auch der Personalausweis. Außerdem sollte die Steuer-ID des Kindes bereit liegen und du dich als Elternteil ausweisen können. 
     
     Depotvergleiche:
-    - https://www.finanzfluss.de/vergleich/junior-depot/
-    - https://www.finanzfluss.de/vergleich/depot/
+    - [https://www.finanzfluss.de/vergleich/junior-depot/](https://www.finanzfluss.de/vergleich/junior-depot/)
+    - [https://www.finanzfluss.de/vergleich/depot/](https://www.finanzfluss.de/vergleich/depot/)
     
 - Steuerfreiheit klären
     
@@ -67,5 +67,5 @@ Man könnte sich auch eine Mischung überlegen. Als Eltern regelmäßige Einzahl
 
 # Quellen
 
-1. https://www.finanzfluss.de/geldanlage/geld-anlegen-fur-kinder/
+1. [https://www.finanzfluss.de/geldanlage/geld-anlegen-fur-kinder/](https://www.finanzfluss.de/geldanlage/geld-anlegen-fur-kinder/)
 2. 

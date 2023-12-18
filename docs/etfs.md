@@ -7,6 +7,7 @@ ETFs (Exchange Traded Funds) bilden einen Aktienindex nach. Das kann in Deutschl
 
 Hier ein Auszug zu den Branchen die im DAX vertreten sind:
 ![pic1](./attachments/Pasted image 20231124095234.png)
+
 Quelle: [https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html](https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html)
 
 Der DAX misst aktuell die Wertentwicklung der 40 größten und (bezogen auf die Streubesitz-Marktkapitalisierung) liquidesten Unternehmen des deutschen Aktienmarktes und repräsentiert rund 80 Prozent der Marktkapitalisierung börsennotierter Aktiengesellschaften in Deutschland.
@@ -74,6 +75,7 @@ Es gibt:
 ## Ausschüttung
 
 Thesaurierend
+
 Ausschüttend
 
 ## Fondsvolumen
