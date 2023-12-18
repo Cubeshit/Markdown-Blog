@@ -6,8 +6,7 @@ Annahmen:
 ETFs (Exchange Traded Funds) bilden einen Aktienindex nach. Das kann in Deutschland beispielsweise der DAX oder MDax sein oder in anderen Ländern der Dow Jones (USA) oder S&P500 (USA) oder der Hang Seng Index (China). In diesen Indizes sind meist viele verschiedene Aktien von großen Unternehmen aus verschiedenen Branchen vertreten.
 
 Hier ein Auszug zu den Branchen die im DAX vertreten sind:
-
-![[PARA/Projects/Personal Blog/attachments/Pasted image 20231124095234.png]]
+![pic1](./attachments/Pasted image 20231124095234.png)
 Quelle: [https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html](https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html)
 
 Der DAX misst aktuell die Wertentwicklung der 40 größten und (bezogen auf die Streubesitz-Marktkapitalisierung) liquidesten Unternehmen des deutschen Aktienmarktes und repräsentiert rund 80 Prozent der Marktkapitalisierung börsennotierter Aktiengesellschaften in Deutschland.
