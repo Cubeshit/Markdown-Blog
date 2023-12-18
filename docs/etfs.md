@@ -8,10 +8,10 @@ ETFs (Exchange Traded Funds) bilden einen Aktienindex nach. Das kann in Deutschl
 Hier ein Auszug zu den Branchen die im DAX vertreten sind:
 
 ![[PARA/Projects/Personal Blog/attachments/Pasted image 20231124095234.png]]
-Quelle: https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html
+Quelle: [https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html](https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html)
 
 Der DAX misst aktuell die Wertentwicklung der 40 größten und (bezogen auf die Streubesitz-Marktkapitalisierung) liquidesten Unternehmen des deutschen Aktienmarktes und repräsentiert rund 80 Prozent der Marktkapitalisierung börsennotierter Aktiengesellschaften in Deutschland.
-Quelle: https://de.wikipedia.org/wiki/DAX
+Quelle: [https://de.wikipedia.org/wiki/DAX](https://de.wikipedia.org/wiki/DAX)
 
 Man könnte sich einen europäischen Index wie den EURO STOXX 50 ansehen oder man geht direkt auf weltweite Indizes wie MSCI World, MSCI Emerging Markets. Auch sehr beliebt sind in der Regel amerikanische Indizes wie der NASDAQ, Dow Jones und S&P 500.
 
@@ -22,7 +22,7 @@ Wenn man sich grob überlegt hat in welche Richtung es gehen soll, geht es an di
 
 Es gibt verschiedene "Suchmaschinen" bei denen man sich einen Überblick verschaffen kann und anhand der verfügbaren Kriterien einen ersten Eindruck gewinnen kann, was wichtig sein könnte. Beziehungsweise über welche Dinge man sich noch Gedanken machen muss.
 
-Als Beispiel verwende ich im folgenden diese Seite: https://www.finanzfluss.de/informer/etf/suche
+Als Beispiel verwende ich im folgenden diese Seite: [https://www.finanzfluss.de/informer/etf/suche](https://www.finanzfluss.de/informer/etf/suche)
 
 ## Assetklasse
 
@@ -106,8 +106,7 @@ Am Ende kann man die Ergebnisse z.B. noch nach der TER (die Kosten des ETF) sort
 Natürlich gibt es noch viele weitere Kriterien nach denen man einen Fonds auswählen kann und sollte. Deswegen sollte das hier eher als Einstieg und für die ersten Gehversuche genutzt werden.
 
 # Quellen
-- https://www.finanzfluss.de/blog
-- https://www.finanztip.de/
-- Mensa PDF
-- https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html
-- https://extraetf.com/de/wissen/etf-schliessung
+- [https://www.finanzfluss.de/blog](https://www.finanzfluss.de/blog)
+- [https://www.finanztip.de/](https://www.finanztip.de/)
+- [https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html](https://www.gevestor.de/finanzwissen/aktien/indizes/dax-30-branchen-reprasentieren-die-deutsche-wirtschaft-644984.html)
+- [https://extraetf.com/de/wissen/etf-schliessung](https://extraetf.com/de/wissen/etf-schliessung)
