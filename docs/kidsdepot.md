@@ -11,8 +11,7 @@ Was soll damit später gemacht werden?
 
 Davon hängt die Höhe des Sparplans ab und eventuell wann entspart werden soll.
 
-Da es in der Regel um Zeiträume von über 10 Jahren geht und man sich mit Kind in der Regel nicht ständig mit Finanzen beschäftigen möchte...?
-
+Da es in der Regel um Zeiträume von über 10 Jahren geht und man sich mit Kind in der Regel nicht ständig mit Finanzen beschäftigen möchte empfehlen sich ETF Sparpläne da hier ein geringer Verwaltungsaufwand besteht.
 
 Im folgenden wird davon ausgegangen, dass die Anlage des Vermögens über ETF Sparpläne umgesetzt werden soll.
 Vorteile sind ein geringer Aufwand, der lange Anlagehorizont, relativ geringes Risiko durch breite Streuung je nach ausgewähltem ETF.
@@ -38,7 +37,9 @@ Man könnte sich auch eine Mischung überlegen. Als Eltern regelmäßige Einzahl
 ## Fragen die geklärt werden müssen
 
 1. Auf wen soll das Depot laufen?
-2. 
+	1. Eltern vs. Kind
+2. Welches Sparziel besteht?
+	1. Welcher Betrag soll z.B. mit 18 erreicht sein?
 
 
 # Umsetzung
