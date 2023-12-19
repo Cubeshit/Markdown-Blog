@@ -2,7 +2,7 @@
 
 Wieviel Geld soll zu welchem Zeitpunkt zur Verfügung stehen?
 - Sparrechner rumprobieren
-- 
+- [Sparrechner](https://www.finanzfluss.de/rechner/sparrechner/)
 
 Was soll damit später gemacht werden?
 - Soll es dauerhaft drinbleiben
